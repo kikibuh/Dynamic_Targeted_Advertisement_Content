@@ -1,4 +1,4 @@
-// Create a Lambda Function named "fetched" with Node.js
+// Code ( Create ) a Lambda function in Node.js
 
 var AWS = require('aws-sdk');
 
