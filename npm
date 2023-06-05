@@ -1,0 +1,6 @@
+npm init
+name:fetched
+npm install aws-sdk --save
+npm install http --save
+npm install uuid --save
+
