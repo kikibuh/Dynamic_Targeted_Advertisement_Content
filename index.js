@@ -1,3 +1,5 @@
+// Create a Lambda Function named "fetched" with Node.js
+
 var AWS = require('aws-sdk');
 
 var http = require('http');   
