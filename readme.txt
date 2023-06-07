@@ -22,3 +22,12 @@ The message is sent as an SMS to the manager's phone number using the SNS servic
 If the SMS sending is successful, the callback function is invoked with the filename of the corresponding ad image. Otherwise, an appropriate error message is passed to the callback.
 
 The code demonstrates a basic implementation of a Lambda function that utilizes AWS services for face detection and analysis. 
+
+Follow the Steps :
+
+1. Create 2x S3 Buckets and Secure them
+2. Setup Dynamo DB
+3. Create Lambda function with Node.js
+4. expose API w. API Gateway
+5. Code a Web Client
+
