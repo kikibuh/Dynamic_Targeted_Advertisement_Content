@@ -1,5 +1,8 @@
+what`s about ? 
+
 The provided code is a Node.js implementation of an AWS Lambda function. 
-It utilizes various AWS services such as SNS (Simple Notification Service), S3 (Simple Storage Service), Rekognition (image recognition service), and DynamoDB (NoSQL database service).
+It utilizes various AWS services such as SNS (Simple Notification Service), S3 (Simple Storage Service), Rekognition (image recognition service),
+and DynamoDB (NoSQL database service).
 The purpose of the code analyzing the detected faces in an image and triggering different actions based on the detected attributes.
 
 Here's a breakdown of the code:
